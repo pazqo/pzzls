@@ -1,0 +1,2 @@
+# pzzls
+Small logic puzzles
